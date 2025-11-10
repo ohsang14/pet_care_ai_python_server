@@ -13,7 +13,7 @@ model = MobileNetV2(weights='imagenet')
 print("INFO: AI 모델 로드가 완료되었습니다.")
 
 
-# --------------------
+# --------------------E
 
 # 이미지 변환 함수 (이전과 동일)
 def prepare_image(img_file):
